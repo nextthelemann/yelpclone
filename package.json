@@ -1,0 +1,25 @@
+{
+  "name": "yelp",
+  "version": "1.0.0",
+  "description": "yelp clone to help learn how to develop w/ React",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nextthelemann/yelpclone.git"
+  },
+  "keywords": [
+    "yelp",
+    "clone",
+    "tutorial",
+    "react"
+  ],
+  "author": "Scott Thelemann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nextthelemann/yelpclone/issues"
+  },
+  "homepage": "https://github.com/nextthelemann/yelpclone#readme"
+}
